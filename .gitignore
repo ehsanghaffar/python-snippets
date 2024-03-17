@@ -162,3 +162,7 @@ temp_files/react-course
 qdrant_data/
 qdrant_data
 docker-compose-local.yml
+
+
+# files
+*.docx
